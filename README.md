@@ -12,7 +12,7 @@ Tech Stack-
 
 - Test Data - CSV, Excel, JSON, 
 
-- Faker- Advance API Testcase - 
+- Faker- Advance API Testcase
 
 - jsonschema- Parallel 
 
